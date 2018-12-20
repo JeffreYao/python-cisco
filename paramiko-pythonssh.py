@@ -1,6 +1,8 @@
 import paramiko
 import time
 
+#new181220
+
 ip_address = "10.0.0.1"
 username = "sshname"
 password = "sshpassword"
